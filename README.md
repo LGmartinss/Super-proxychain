@@ -16,6 +16,3 @@ chmod +x *.sh
 ./super-proxychain.sh
 
 
-====================
-** valeu galera **
-====================
